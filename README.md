@@ -1,2 +1,1 @@
-
-This is mern soc repository.
+Readme file will be completed soon.
